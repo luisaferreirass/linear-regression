@@ -150,7 +150,7 @@ O modelo apresentou um bom desempenho no conjunto de teste.
 
 O valor de R² foi de aproximadamente `0.97`, indicando que o modelo conseguiu explicar cerca de 97% da variação dos salários a partir dos anos de experiência.
 
-Além disso, o RMSE foi de aproximadamente `3.857`, o que significa que, em média, as previsões se afastam dos valores reais em cerca de 3.857 dólares.
+Além disso, o RMSE foi de aproximadamente `4.717`, o que significa que, em média, as previsões se afastam dos valores reais em cerca de 4.717 dólares.
 
 ## Exemplo de saída
 
